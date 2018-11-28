@@ -27,3 +27,6 @@ twitter_username:   jekyllrb
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
